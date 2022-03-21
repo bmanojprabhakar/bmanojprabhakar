@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bmanojprabhakar
 - 👀 I’m interested in developing scalable distributed systems
 - 🌱 I’m currently learning cloud and dev ops
-- 💞️ I’m looking to collaborate on open source projects where I can contribute towards backend app development
+- 💞️ I’m looking to collaborate on open source projects where I can contribute on the backend
 - 📫 Reach me at bmanojprabhakar@gmail.com
 
 <!---
